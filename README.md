@@ -31,3 +31,8 @@ To run the web application enter this URL in your browser
 ```
 ## Screenshots
 
+![Screenshot - 1](https://github.com/Bulbul0017/Weather-Forecast-App/assets/74949576/8b83b0cd-455a-4e14-81bd-a0d18d08e71a)
+
+To add new location
+
+
