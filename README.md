@@ -24,4 +24,10 @@ Run the server
 ```bash
   python manage.py runserver
 ```
+To run the web application enter this URL in your browser
+
+```bash
+  http://127.0.0.1:8000/get_locations/
+```
 ## Screenshots
+
