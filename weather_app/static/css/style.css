@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+.title-bar {
+    background-color: #9da0a2; 
+    color: #000000;
+    text-align: center;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+.locationButton {
+    margin: 5px;
+    padding: 10px;
+    cursor: pointer;
+    background-color: rgb(171, 168, 168);
+    border-radius: 10px;
+    width: 100px;
+}
+.locationButton.active {
+    background-color: #1d6f63; 
+}
+
+
+
+#forecastContainer {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    align-items: center;
+    margin-left: 200px;
+}
+
+.forecastCard {
+    border: 1px solid #ddd;
+    margin: 20px;
+    margin-top: 20px;
+    padding: 10px;
+    width: 250px;
+    height: 200px;
+    font-size: large;
+    background-color: rgb(173, 241, 218);
+    border-radius: 20px;
+}
